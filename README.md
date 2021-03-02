@@ -8,7 +8,7 @@ This data set contains patients’ review and rating of 3436 different drugs. Th
 [Bank marketing data set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 ## 1. Docs
 - [Final report](https://github.com/atshirazi/Drug_review/blob/main/docs/Drug%20review%20project%20report.pdf)
-- [Project presentation](https://github.com/atshirazi/banktelemarketing/blob/master/docs/Bank%20telemarketing%20presentation.pdf)
+- [Project presentation](https://github.com/atshirazi/Drug_review/blob/main/docs/Drug_review_presentation.pdf)
 ## 2. Notebook
 The Jupyter notebook file contains all data wrangling, exploratory data analysis, modeling/classification, and model tuning sections.
 - [Notebook](https://github.com/atshirazi/Drug_review/blob/main/Notebook/Analyzing%20sentiment%20in%20drug%20reviews.ipynb)
