@@ -5,7 +5,7 @@ Pharmaceutical companies develop drugs based on intensive research and clinical 
 In this project, we will aim to predict whether or not a customer review is negative (rating <4) based on the review, analyze what indicators in a review make it most likely to be negative for different types of drugs and which patients tend to have more negative reviews.
 
 This data set contains patients’ review and rating of 3436 different drugs. The condition of the patients for which the drug is taken is given and the number of people who found the review useful. The data is from UCI Machine Learning Repository:
-[Bank marketing data set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
+[Drug reviews data set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 ## 1. Docs
 - [Final report](https://github.com/atshirazi/Drug_review/blob/main/docs/Drug%20review%20project%20report.pdf)
 - [Project presentation](https://github.com/atshirazi/Drug_review/blob/main/docs/Drug_review_presentation.pdf)
