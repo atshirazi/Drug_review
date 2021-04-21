@@ -1,4 +1,4 @@
-# Analyzing sentiment in drug reviews
+# Analyzing Sentiment in Drug Reviews.
 
 Pharmaceutical companies develop drugs based on intensive research and clinical trials. However, clinical trials provide a limited resource to examine the drugs and their side effects. The patients' reviews after mass production are a great source of information for pharmaceutical companies to learn more about customer reaction to their products, discover potential problems before they occur, and better allocate their resources. 
 
